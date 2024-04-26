@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Fri, 26 Apr 2024 21:14:52 at https://krampus.gg +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/HTTrack/Websites/Krampus -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://krampus.gg +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:14:54	Warning: 	Permanent Redirect for https://krampus.gg/robots.txt
+21:14:54	Warning: 	Redirected link is identical because of 'URL Hack' option: https://krampus.gg/robots.txt and https://www.krampus.gg/robots.txt
+21:14:54	Warning: 	Warning moved treated for https://krampus.gg/robots.txt (real one is https://www.krampus.gg/robots.txt)
+21:14:55	Warning: 	Permanent Redirect for https://krampus.gg/
+21:14:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://krampus.gg/ and https://www.krampus.gg/
+21:14:55	Warning: 	File has moved from https://krampus.gg/ to https://www.krampus.gg/
+21:14:55	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
