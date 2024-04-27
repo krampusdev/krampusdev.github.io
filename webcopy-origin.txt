@@ -1,0 +1,96 @@
+Uri: https://www.krampus.gg/
+File Name: C:\Downloaded Web Sites\www.krampus.gg\index.htm
+Content Type: text/html
+
+Uri: https://www.krampus.gg/_next/image?url=%2Fimages%2Fdash.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\dash.png
+Content Type: image/png
+
+Uri: https://www.krampus.gg/_next/static/chunks/416-c8b06a0257014358.js
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\chunks\416-c8b06a0257014358.js
+Content Type: application/javascript
+
+Uri: https://www.krampus.gg/_next/static/chunks/69-6fff13902457906f.js
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\chunks\69-6fff13902457906f.js
+Content Type: application/javascript
+
+Uri: https://www.krampus.gg/_next/static/chunks/792-0c65df9c6608e7a4.js
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\chunks\792-0c65df9c6608e7a4.js
+Content Type: application/javascript
+
+Uri: https://www.krampus.gg/_next/static/chunks/app/layout-d1717384f7430598.js
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\chunks\app\layout-d1717384f7430598.js
+Content Type: application/javascript
+
+Uri: https://www.krampus.gg/_next/static/chunks/app/page-65c4ac2dac8aad2f.js
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\chunks\app\page-65c4ac2dac8aad2f.js
+Content Type: application/javascript
+
+Uri: https://www.krampus.gg/_next/static/chunks/fd9d1056-17be6113a2ba6112.js
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\chunks\fd9d1056-17be6113a2ba6112.js
+Content Type: application/javascript
+
+Uri: https://www.krampus.gg/_next/static/chunks/main-app-f5c8d25c8479457f.js
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\chunks\main-app-f5c8d25c8479457f.js
+Content Type: application/javascript
+
+Uri: https://www.krampus.gg/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://www.krampus.gg/_next/static/chunks/webpack-5f06581a98fd92bb.js
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\chunks\webpack-5f06581a98fd92bb.js
+Content Type: application/javascript
+
+Uri: https://www.krampus.gg/_next/static/css/40e6cee5b15615c2.css
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\css\40e6cee5b15615c2.css
+Content Type: text/css
+
+Uri: https://www.krampus.gg/_next/static/css/54a80bb7c2c4c808.css
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\css\54a80bb7c2c4c808.css
+Content Type: text/css
+
+Uri: https://www.krampus.gg/_next/static/media/05a31a2ca4975f99-s.woff2
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\05a31a2ca4975f99-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.krampus.gg/_next/static/media/513657b02c5c193f-s.woff2
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\513657b02c5c193f-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.krampus.gg/_next/static/media/51ed15f9841b9f9d-s.woff2
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\51ed15f9841b9f9d-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.krampus.gg/_next/static/media/a46d2ba092ad6e78-s.woff2
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\a46d2ba092ad6e78-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.krampus.gg/_next/static/media/addc3ffff14eb081-s.woff2
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\addc3ffff14eb081-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.krampus.gg/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\c9a5bc6a7c948fb0-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.krampus.gg/_next/static/media/d6b16ce4a6175f26-s.woff2
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\d6b16ce4a6175f26-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.krampus.gg/_next/static/media/e389320ccbd02cc9-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\e389320ccbd02cc9-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.krampus.gg/_next/static/media/ec159349637c90ad-s.woff2
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\ec159349637c90ad-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.krampus.gg/_next/static/media/fd4db3eb5472fc27-s.woff2
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\fd4db3eb5472fc27-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.krampus.gg/_next/static/media/glow-top.87feda76.svg
+File Name: C:\Downloaded Web Sites\www.krampus.gg\_next\static\media\glow-top.87feda76.svg
+Content Type: image/svg+xml
+
